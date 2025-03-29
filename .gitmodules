@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/MahmutovicB/BSMS-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/MahmutovicB/BSMS-backend.git
